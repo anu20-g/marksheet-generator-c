@@ -1,0 +1,1 @@
+# Marksheet Generator - Team 1\n\nAccept subject marks and calculate total, percentage, grade and result.\n\n## Compilation and Run\n```bash\ngcc main.c -o app\n./app\n```\n
